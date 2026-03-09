@@ -1,0 +1,47 @@
+﻿@model Dictionary<string, double>
+
+<h2>Gestão de Notas</h2>
+
+<form method="post" action="/Home/AdicionarNota">
+    <label>Nome do Aluno:</label>
+    <input type="text" name="nome" required />
+
+    <label>Nota:</label>
+    <input type="number" step="0.1" name="nota" required />
+
+    <button type="submit">Adicionar</button>
+</form>
+
+<hr />
+
+<h3>Notas Registadas</h3>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Nome do Aluno</th>
+            <th>Nota</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Key</td>
+                <td>@item.Value</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<hr />
+
+<h3>Relatório Final</h3>
+<ul>
+    <li>Maior nota: @ViewBag.MaiorNota.ToString("F2") </li>
+    <li>Menor nota: @ViewBag.MenorNota.ToString("F2")</li>
+    <li>Alunos aprovados (nota &ge; 7): @ViewBag.Aprovados</li>
+    <li>Alunos em recuperação (nota entre 5 e 6.9): @ViewBag.Recuperacao</li>
+    <li>Alunos reprovados (nota &lt; 5): @ViewBag.Reprovados</li>
+    
+</ul>
+
