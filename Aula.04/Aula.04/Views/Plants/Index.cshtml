@@ -1,0 +1,15 @@
+﻿@model List<Plant>
+
+<p>
+    @foreach (var i in Model)
+    {
+        @i.Name<br />
+        @i.Description<br/>
+        @i.Color <br/>
+        @i.Count <br/>
+		@i.Size<br/>
+        <br/>
+        ;
+
+    }
+</p>

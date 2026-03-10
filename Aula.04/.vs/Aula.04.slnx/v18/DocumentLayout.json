@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unoesc - C#\\Programa\u00E7\u00E3o I - 3\u00AA fase\\Aula.04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51B175E2-209A-E274-FADB-A48B8D6FE194}|Aula.04\\Aula.04.csproj|d:\\unoesc - c#\\programa\u00E7\u00E3o i - 3\u00AA fase\\aula.04\\aula.04\\views\\plants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51B175E2-209A-E274-FADB-A48B8D6FE194}|Aula.04\\Aula.04.csproj|solutionrelative:aula.04\\views\\plants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B175E2-209A-E274-FADB-A48B8D6FE194}|Aula.04\\Aula.04.csproj|d:\\unoesc - c#\\programa\u00E7\u00E3o i - 3\u00AA fase\\aula.04\\aula.04\\controllers\\plantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B175E2-209A-E274-FADB-A48B8D6FE194}|Aula.04\\Aula.04.csproj|solutionrelative:aula.04\\controllers\\plantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B175E2-209A-E274-FADB-A48B8D6FE194}|Aula.04\\Aula.04.csproj|d:\\unoesc - c#\\programa\u00E7\u00E3o i - 3\u00AA fase\\aula.04\\aula.04\\models\\plants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B175E2-209A-E274-FADB-A48B8D6FE194}|Aula.04\\Aula.04.csproj|solutionrelative:aula.04\\models\\plants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plants.cs",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Programa\u00E7\u00E3o I - 3\u00AA fase\\Aula.04\\Aula.04\\Models\\Plants.cs",
+              "RelativeDocumentMoniker": "Aula.04\\Models\\Plants.cs",
+              "ToolTip": "D:\\Unoesc - C#\\Programa\u00E7\u00E3o I - 3\u00AA fase\\Aula.04\\Aula.04\\Models\\Plants.cs",
+              "RelativeToolTip": "Aula.04\\Models\\Plants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T02:30:19.758Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Programa\u00E7\u00E3o I - 3\u00AA fase\\Aula.04\\Aula.04\\Views\\Plants\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aula.04\\Views\\Plants\\Index.cshtml",
+              "ToolTip": "D:\\Unoesc - C#\\Programa\u00E7\u00E3o I - 3\u00AA fase\\Aula.04\\Aula.04\\Views\\Plants\\Index.cshtml",
+              "RelativeToolTip": "Aula.04\\Views\\Plants\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T00:45:40.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlantsController.cs",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Programa\u00E7\u00E3o I - 3\u00AA fase\\Aula.04\\Aula.04\\Controllers\\PlantsController.cs",
+              "RelativeDocumentMoniker": "Aula.04\\Controllers\\PlantsController.cs",
+              "ToolTip": "D:\\Unoesc - C#\\Programa\u00E7\u00E3o I - 3\u00AA fase\\Aula.04\\Aula.04\\Controllers\\PlantsController.cs",
+              "RelativeToolTip": "Aula.04\\Controllers\\PlantsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T00:17:50.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
