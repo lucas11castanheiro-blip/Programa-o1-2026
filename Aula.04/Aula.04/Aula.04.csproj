@@ -7,4 +7,8 @@
     <RootNamespace>Aula._04</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SaleOrder\SaleOrder.csproj" />
+  </ItemGroup>
+
 </Project>

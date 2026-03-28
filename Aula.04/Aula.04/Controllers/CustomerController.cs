@@ -1,13 +1,14 @@
 ﻿using Aula._04.Models;
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace Aula._04.Controllers
 {
     public class CustomerController : Controller
     {
         public IActionResult Index()
         {
-
+            
             int id = 1;
 
             Customer cu = new Customer(); //É um método, pois é um método construtor

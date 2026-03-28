@@ -1,6 +1,7 @@
 using Aula._04.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using SaleOrder;
 
 namespace Aula._04.Controllers
 {
@@ -8,6 +9,7 @@ namespace Aula._04.Controllers
     {
         public IActionResult Index()
         {
+
             return View();
         }
 

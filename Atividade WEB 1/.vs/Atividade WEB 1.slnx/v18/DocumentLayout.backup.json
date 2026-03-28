@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Unoesc - C#\\Programa\u00E7\u00E3o I - 3\u00AA fase\\Atividade WEB 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{746BE31E-F95B-4988-87F4-D4AC9C3FC01C}|Atividade WEB 1\\Atividade WEB 1.csproj|d:\\unoesc - c#\\programa\u00E7\u00E3o i - 3\u00AA fase\\atividade web 1\\atividade web 1\\views\\home\\notas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{746BE31E-F95B-4988-87F4-D4AC9C3FC01C}|Atividade WEB 1\\Atividade WEB 1.csproj|solutionrelative:atividade web 1\\views\\home\\notas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9E36FA93-330A-52DE-FB89-FB53BCE8D6C2}|Atividade WEB 1\\Atividade WEB 1.csproj|d:\\unoesc - c#\\programa\u00E7\u00E3o i - 3\u00AA fase\\atividade web 1\\atividade web 1\\views\\home\\notas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E36FA93-330A-52DE-FB89-FB53BCE8D6C2}|Atividade WEB 1\\Atividade WEB 1.csproj|solutionrelative:atividade web 1\\views\\home\\notas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{746BE31E-F95B-4988-87F4-D4AC9C3FC01C}|Atividade WEB 1\\Atividade WEB 1.csproj|d:\\unoesc - c#\\programa\u00E7\u00E3o i - 3\u00AA fase\\atividade web 1\\atividade web 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{746BE31E-F95B-4988-87F4-D4AC9C3FC01C}|Atividade WEB 1\\Atividade WEB 1.csproj|solutionrelative:atividade web 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E36FA93-330A-52DE-FB89-FB53BCE8D6C2}|Atividade WEB 1\\Atividade WEB 1.csproj|d:\\unoesc - c#\\programa\u00E7\u00E3o i - 3\u00AA fase\\atividade web 1\\atividade web 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E36FA93-330A-52DE-FB89-FB53BCE8D6C2}|Atividade WEB 1\\Atividade WEB 1.csproj|solutionrelative:atividade web 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,8 +31,7 @@
               "ViewState": "AgIAAAsAAAAAAAAAAAAiwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-07T19:05:19.934Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",

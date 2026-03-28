@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Catalog";
+
+    // Fazendo o cast do ViewBag para manter a tipagem forte na View
+    var houses = ViewBag.HouseCatalog as IEnumerable<Classes.House>;
+    var apartaments = ViewBag.ApartamentCatalog as IEnumerable<Classes.Apartament>;
+}
+
+<h2>Catálogo de Imóveis</h2>
+
+<hr />
+
+<h3>Casas Disponíveis</h3>
+<table class="table table-bordered table-striped mb-5">
+    <thead class="thead-dark">
+        <tr>
+            <th>ID</th>
+            <th>Transação</th>
+            <th>Proprietário</th>
+            <th>Endereço</th>
+            <th>Número</th>
+            <th>Preço</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (houses != null)
+        {
+            foreach (var house in houses)
+            {
+                <tr>
+                    <td>@house.Id</td>
+                    <td>@house.Transacao</td>
+                    <td>@house.Owner</td>
+                    <td>@house.Address</td>
+                    <td>@house.Num</td>
+                    <td>R$ @house.Price.ToString("N2")</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+<h3>Apartamentos Disponíveis</h3>
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>ID</th>
+            <th>Transação</th>
+            <th>Proprietário</th>
+            <th>Endereço</th>
+            <th>Número</th>
+            <th>Preço</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (apartaments != null)
+        {
+            foreach (var apto in apartaments)
+            {
+                <tr>
+                    <td>@apto.Id</td>
+                    <td>@apto.Transacao</td>
+                    <td>@apto.Owner</td>
+                    <td>@apto.Address</td>
+                    <td>@apto.Num</td>
+                    <td>R$ @apto.Price.ToString("N2")</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

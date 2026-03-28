@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Atividade 23.03.26/Atividade 23.03.26.csproj">
+    <BuildDependency Project="Classes/Classes.csproj" />
+  </Project>
+  <Project Path="Classes/Classes.csproj" />
+</Solution>

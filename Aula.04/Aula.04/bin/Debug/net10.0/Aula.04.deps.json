@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "Aula.04/1.0.0": {
+        "dependencies": {
+          "SaleOrder": "1.0.0"
+        },
         "runtime": {
           "Aula.04.dll": {}
+        }
+      },
+      "SaleOrder/1.0.0": {
+        "runtime": {
+          "SaleOrder.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Aula.04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SaleOrder/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

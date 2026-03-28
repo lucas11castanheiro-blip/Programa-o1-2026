@@ -1,0 +1,12 @@
+D:\Unoesc - C#\Programação I - 3ª fase\Aula.04\SaleOrder\bin\Debug\net10.0\SaleOrder.deps.json
+D:\Unoesc - C#\Programação I - 3ª fase\Aula.04\SaleOrder\bin\Debug\net10.0\SaleOrder.dll
+D:\Unoesc - C#\Programação I - 3ª fase\Aula.04\SaleOrder\bin\Debug\net10.0\SaleOrder.pdb
+D:\Unoesc - C#\Programação I - 3ª fase\Aula.04\SaleOrder\obj\Debug\net10.0\SaleOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Programação I - 3ª fase\Aula.04\SaleOrder\obj\Debug\net10.0\SaleOrder.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Programação I - 3ª fase\Aula.04\SaleOrder\obj\Debug\net10.0\SaleOrder.AssemblyInfo.cs
+D:\Unoesc - C#\Programação I - 3ª fase\Aula.04\SaleOrder\obj\Debug\net10.0\SaleOrder.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Programação I - 3ª fase\Aula.04\SaleOrder\obj\Debug\net10.0\SaleOrder.sourcelink.json
+D:\Unoesc - C#\Programação I - 3ª fase\Aula.04\SaleOrder\obj\Debug\net10.0\SaleOrder.dll
+D:\Unoesc - C#\Programação I - 3ª fase\Aula.04\SaleOrder\obj\Debug\net10.0\refint\SaleOrder.dll
+D:\Unoesc - C#\Programação I - 3ª fase\Aula.04\SaleOrder\obj\Debug\net10.0\SaleOrder.pdb
+D:\Unoesc - C#\Programação I - 3ª fase\Aula.04\SaleOrder\obj\Debug\net10.0\ref\SaleOrder.dll

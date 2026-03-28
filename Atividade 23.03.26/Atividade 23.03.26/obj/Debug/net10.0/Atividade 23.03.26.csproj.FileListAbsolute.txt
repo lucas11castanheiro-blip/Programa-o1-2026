@@ -1,0 +1,103 @@
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\bin\Debug\net10.0\appsettings.Development.json
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\bin\Debug\net10.0\appsettings.json
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\bin\Debug\net10.0\Atividade 23.03.26.staticwebassets.runtime.json
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\bin\Debug\net10.0\Atividade 23.03.26.staticwebassets.endpoints.json
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\bin\Debug\net10.0\Atividade 23.03.26.exe
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\bin\Debug\net10.0\Atividade 23.03.26.deps.json
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\bin\Debug\net10.0\Atividade 23.03.26.runtimeconfig.json
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\bin\Debug\net10.0\Atividade 23.03.26.dll
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\bin\Debug\net10.0\Atividade 23.03.26.pdb
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\Atividade 23.03.26.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\Atividade 23.03.26.AssemblyInfoInputs.cache
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\Atividade 23.03.26.AssemblyInfo.cs
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\Atividade 23.03.26.csproj.CoreCompileInputs.cache
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\Atividade 23.03.26.MvcApplicationPartsAssemblyInfo.cache
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\Atividade 23.03.26.RazorAssemblyInfo.cache
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\Atividade 23.03.26.RazorAssemblyInfo.cs
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\Atividade 23.03.26.sourcelink.json
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\scopedcss\bundle\Atividade 23.03.26.styles.css
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\scopedcss\projectbundle\Atividade 23.03.26.bundle.scp.css
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\evk4hoz2m3-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\v2b4ytm4uk-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\cqfvsjvrc6-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\dagadv27na-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\ua52gi3vzh-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\hr45hk66ch-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\x4sh338bnr-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\74t7hgiby2-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\5pbax6qhdu-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\xznqv5tpyt-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\wpspykx7vj-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\f9jx47lvz9-{0}-ub07r2b239-ub07r2b239.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\c3by0xkj45-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\6xofzatptt-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\ezq02lyerw-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\xpoz6nr8s4-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\j5w5dl04g5-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\msdcli8xoi-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\gci8gbruvt-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\c0yhpyrmrp-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\jydqz3t9l0-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\gyt1obw6vn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\g7flgf572u-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\7l5uvpaz5x-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\3df4hyeuo7-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\lbobrjkjrj-{0}-06098lyss8-06098lyss8.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\r4thql2kc3-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\081oa71hk0-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\9d0me9r8ch-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\8u1xncbfs2-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\lv9vd9c4yv-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\yu1se6uwo8-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\bvih84uynh-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\j21tploa5k-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\trpqrfed4o-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\3u5m2i9avz-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\1k6m90o11e-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\qoj30374vk-{0}-493y06b0oq-493y06b0oq.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\u214zjv0tt-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\bne5owe6l7-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\51l66h2gez-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\cwbu9tww0b-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\cex12m6gzv-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\jy01ns2kgr-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\6gooseoi89-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\1uodyjfq9b-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\cc2qmchqul-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\h8lhmbx97w-{0}-47otxtyo56-47otxtyo56.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\01bdgkwucw-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\gdvqinw7bl-{0}-356vix0kms-356vix0kms.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\mepo2zs4oo-{0}-83jwlth58m-83jwlth58m.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\fxxioby6r5-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\s3rvr73802-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\h9qhguohq1-{0}-ag7o75518u-ag7o75518u.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\5v1nam0l6e-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\jla2aj58bm-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\18spg1w78b-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\0zhe0jdal7-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\m0ma3e55tp-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\63t6pfc85x-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\ezsicd2sum-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\ey8s5o4j5g-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\ad3tu68sa1-{0}-4t6m8li9r1-4t6m8li9r1.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\compressed\hl6f1izafz-{0}-4t6m8li9r1-4t6m8li9r1.gz
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\staticwebassets.build.json
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\staticwebassets.development.json
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\swae.build.ex.cache
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\Atividade 23.03.26.dll
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\refint\Atividade 23.03.26.dll
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\Atividade 23.03.26.pdb
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\Atividade 23.03.26.genruntimeconfig.cache
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\ref\Atividade 23.03.26.dll
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\Atividade 23.03.26.csproj.AssemblyReference.cache
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\bin\Debug\net10.0\Classes.dll
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\bin\Debug\net10.0\Classes.pdb
+D:\Unoesc - C#\Programação I - 3ª fase\Atividade 23.03.26\Atividade 23.03.26\obj\Debug\net10.0\Atividad.728F7BF2.Up2Date

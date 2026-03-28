@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Aula.04/Aula.04.csproj" />
+  <Project Path="SaleOrder/SaleOrder.csproj" Id="c6bbbb4d-4e8b-4e7a-a752-7d9a4c3663ac" />
 </Solution>

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unoesc - C#\\Programa\u00E7\u00E3o I - 3\u00AA fase\\Aula05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA4DFD3-2130-0DD2-C8A3-51997AA80B48}|Aula05\\Aula05.csproj|d:\\unoesc - c#\\programa\u00E7\u00E3o i - 3\u00AA fase\\aula05\\aula05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA4DFD3-2130-0DD2-C8A3-51997AA80B48}|Aula05\\Aula05.csproj|solutionrelative:aula05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4CFB5A-1EAE-48ED-BE33-B2ED9906A1A0}|SaleOrder\\SaleOrder.csproj|d:\\unoesc - c#\\programa\u00E7\u00E3o i - 3\u00AA fase\\aula05\\saleorder\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4CFB5A-1EAE-48ED-BE33-B2ED9906A1A0}|SaleOrder\\SaleOrder.csproj|solutionrelative:saleorder\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Programa\u00E7\u00E3o I - 3\u00AA fase\\Aula05\\SaleOrder\\Customer.cs",
+              "RelativeDocumentMoniker": "SaleOrder\\Customer.cs",
+              "ToolTip": "D:\\Unoesc - C#\\Programa\u00E7\u00E3o I - 3\u00AA fase\\Aula05\\SaleOrder\\Customer.cs",
+              "RelativeToolTip": "SaleOrder\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T23:13:35.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Unoesc - C#\\Programa\u00E7\u00E3o I - 3\u00AA fase\\Aula05\\Aula05\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Aula05\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Unoesc - C#\\Programa\u00E7\u00E3o I - 3\u00AA fase\\Aula05\\Aula05\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Aula05\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T23:10:14.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
